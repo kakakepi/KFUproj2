@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Shared/kpfu-proj/kpfu-proj.csproj": {}
+    "/Users/Shared/Lab2/Lab2.csproj": {}
   },
   "projects": {
-    "/Users/Shared/kpfu-proj/kpfu-proj.csproj": {
+    "/Users/Shared/Lab2/Lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Shared/kpfu-proj/kpfu-proj.csproj",
-        "projectName": "kpfu-proj",
-        "projectPath": "/Users/Shared/kpfu-proj/kpfu-proj.csproj",
+        "projectUniqueName": "/Users/Shared/Lab2/Lab2.csproj",
+        "projectName": "Lab2",
+        "projectPath": "/Users/Shared/Lab2/Lab2.csproj",
         "packagesPath": "/Users/semenosipov/.nuget/packages/",
-        "outputPath": "/Users/Shared/kpfu-proj/obj/",
+        "outputPath": "/Users/Shared/Lab2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/semenosipov/.nuget/NuGet/NuGet.Config"
