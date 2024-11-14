@@ -1,0 +1,15 @@
+/Users/Shared/Homework2/bin/Debug/net8.0/Homework2
+/Users/Shared/Homework2/bin/Debug/net8.0/Homework2.deps.json
+/Users/Shared/Homework2/bin/Debug/net8.0/Homework2.runtimeconfig.json
+/Users/Shared/Homework2/bin/Debug/net8.0/Homework2.dll
+/Users/Shared/Homework2/bin/Debug/net8.0/Homework2.pdb
+/Users/Shared/Homework2/obj/Debug/net8.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Shared/Homework2/obj/Debug/net8.0/Homework2.AssemblyInfoInputs.cache
+/Users/Shared/Homework2/obj/Debug/net8.0/Homework2.AssemblyInfo.cs
+/Users/Shared/Homework2/obj/Debug/net8.0/Homework2.csproj.CoreCompileInputs.cache
+/Users/Shared/Homework2/obj/Debug/net8.0/Homework2.sourcelink.json
+/Users/Shared/Homework2/obj/Debug/net8.0/Homework2.dll
+/Users/Shared/Homework2/obj/Debug/net8.0/refint/Homework2.dll
+/Users/Shared/Homework2/obj/Debug/net8.0/Homework2.pdb
+/Users/Shared/Homework2/obj/Debug/net8.0/Homework2.genruntimeconfig.cache
+/Users/Shared/Homework2/obj/Debug/net8.0/ref/Homework2.dll

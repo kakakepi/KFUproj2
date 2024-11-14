@@ -61,15 +61,13 @@ namespace Lab_W_2{
 
             Console.WriteLine("\nУпражнение №3.1\n");
         
-            /* Создаю перечислимый тип данных отображающий виды банковского
-            счета (текущий и сберегательный). */
+            Console.WriteLine("Создаю перечислимый тип данных отображающий виды банковского счета (текущий и сберегательный).");
             TypeOfBankAccount UserAcc = TypeOfBankAccount.Сберегательный;
             Console.WriteLine($"Тип счета в банке у какого-то пользователя - {UserAcc}");
 
             Console.WriteLine("\nУпражнение №3.2\n");
 
-            /*Создать структуру данных, которая хранит информацию о банковском
-            счете – его номер, тип и баланс.*/
+            Console.WriteLine("Создать структуру данных, которая хранит информацию о банковском счете – его номер, тип и баланс.");
             UserBankAccInfo RandUserInfo = new UserBankAccInfo();
             RandUserInfo.AccBalance = 228228228;
             RandUserInfo.AccNumber = 666666;
@@ -78,8 +76,7 @@ namespace Lab_W_2{
 
             Console.WriteLine("\nУпражнение №3.3\n");
 
-            /*Создать перечислимый тип ВУЗ{КГУ, КАИ, КХТИ}.
-            Создать структуру работник с двумя полями: имя, ВУЗ. */
+            Console.WriteLine("Создать перечислимый тип ВУЗ{КГУ, КАИ, КХТИ}.Создать структуру работник с двумя полями: имя, ВУЗ.");
             UnviersityWorker Tutor = new UnviersityWorker();
             Tutor.name = "Иван Золо";
             Tutor.university = UniversityName.КГУ;
